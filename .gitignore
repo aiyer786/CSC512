@@ -1,0 +1,5 @@
+bin
+out
+src/KeyPointsCollector.*
+src/Common.h
+file_format_style
